@@ -1,2 +1,2 @@
 # rakugaki
-Webアプリの落書き帳 - GitHub Pages demos
+落書き帳 (Doodle pad) - tiny web toys
